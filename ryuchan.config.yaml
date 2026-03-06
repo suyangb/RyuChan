@@ -1,6 +1,6 @@
 site:
-  tab: 折腾不止，记录不停
-  title: 王苏洋Blog
+  tab: RyuChan
+  title: RyuChan
   description: 🌸 轻盈、优雅、纯净 —— 用文字与图片记录生活与创意
   language: zh
   favicon: /favicon.png
@@ -18,11 +18,11 @@ site:
     height: 60vh
     images:
       - https://tc.alcy.cc/q/20250908/b2d656670551cb9ea6eda7b46b6c8ec0.webp
-  icp: 皖ICP备2024049551号
-  icp_link: ''
+  icp: 萌ICP备20261117号
+  icp_link: https://icp.gov.moe/?keyword=20261117
   pages:
     home:
-      title:王苏洋Blog
+      title: RyuChan's Blog
       subtitle: 欲买桂花同载酒，终不似，少年游！
       typewriterTexts:
         - 🌸 欲买桂花同载酒，终不似，少年游！
@@ -113,28 +113,29 @@ umami:
   websiteId: 3f9afc6c-f0bd-4734-be15-6d053960d34d
   timezone: Asia/Shanghai
 user:
-  name: 王苏洋
-  description: 一个爱折腾的普通人
-  site: https://www.wsyblog.cn
+  name: KoBariDev
+  description: Ciallo～(∠・ω<)⌒★
+  site: https://hub.xiaozhangya.xin
   avatar: /profile.png
   sidebar:
     social:
-      - href: https://github.com/suyangb
+      - href: https://github.com/kobaridev
         ariaLabel: Github
         title: Github
         svg: ri:github-line
-      - href: https://b23.tv/CirHx6x
+      - href: https://space.bilibili.com/1536411565
         ariaLabel: BiliBili
         title: BiliBili
         svg: ri:bilibili-line
-      - href: 1493367306@qq.com
-        ariaLabel: Email
-        title: Email
-        svg: ri:mail-line
-      - href: https://qm.qq.com/q/pxSIhAyR7G
-        title: QQ
-        ariaLabel: QQ
-        svg: ri:qq-line
+      - href: >-
+          https://www.douyin.com/user/MS4wLjABAAAAeO0sqJYUgh1a26GkVPtS2yv_IOODjeqvtl4KSjvsntg?from_tab_name=main
+        ariaLabel: Douyin
+        title: Douyin
+        svg: ri:tiktok-line
+      - href: https://weibo.com/u/7579913510
+        title: Weibo
+        ariaLabel: Weibo
+        svg: ri:weibo-fill
   footer:
     social:
       - href: https://github.com/kobaridev
