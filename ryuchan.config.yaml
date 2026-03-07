@@ -108,7 +108,7 @@ github:
   encryptKey: wudishiduomejimo
 umami:
   enable: true
-  baseUrl: https://tongji.wsyblog.cn/share/
+  baseUrl: https://tongji.wsyblog.cn
   shareId: 4JBkUTfjAsWnFMOV
   websiteId: 0a9795f9-566b-4408-a258-320d4995b188
   timezone: Asia/Shanghai
