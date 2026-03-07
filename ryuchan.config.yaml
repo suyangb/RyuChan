@@ -168,7 +168,7 @@ comments:
     emitMetadata: '0'
     loading: lazy
   waline:
-    serverURL: https://pl-self.vercel.app
+    serverURL: https://pl.wsyblog.cn/
     lang: zh-CN
     emoji:
       - https://unpkg.com/@waline/emojis@1.1.0/weibo
