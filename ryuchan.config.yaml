@@ -113,9 +113,9 @@ umami:
   websiteId: 3f9afc6c-f0bd-4734-be15-6d053960d34d
   timezone: Asia/Shanghai
 user:
-  name: KoBariDev
+  name: 王苏洋
   description: Ciallo～(∠・ω<)⌒★
-  site: https://hub.xiaozhangya.xin
+  site: https://www.wsyblog.cn
   avatar: /profile.png
   sidebar:
     social:
@@ -154,7 +154,7 @@ user:
         title: Telegram
         svg: ri:telegram-line
 comments:
-  enable: true
+  enable: false
   type: giscus
   giscus:
     repo: kobaridev/gsc
