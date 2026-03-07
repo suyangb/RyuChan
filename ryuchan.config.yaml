@@ -154,7 +154,7 @@ user:
         title: Telegram
         svg: ri:telegram-line
 comments:
-  enable: true
+  enable: false
   type: giscus
   giscus:
     repo: kobaridev/gsc
