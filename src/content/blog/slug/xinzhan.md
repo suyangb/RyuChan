@@ -1,12 +1,13 @@
 ---
 title: 新站第一篇
 description: 因感生活嘈杂，欲寻一处静心整理，遂建此网页作为个人思考收纳箱。不求流量，偶遇同好即可。新站尚有不足，排版、加载速度待优化，当逐步完善。
-pubDate: 2026-03-07T18:02
+pubDate: 2025-07-17T23:21
 image: /images/slug/xinzhan/91917bfb4f9c1cb4.jpeg
 draft: false
 tags: []
 categories:
   - 记录
+badge: ''
 ---
 开这个站的念头，攒了快半年。
 
