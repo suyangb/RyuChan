@@ -60,8 +60,12 @@ export const USER_FOOTER_SOCIAL_ICONS = config.user.footer.social;
 export const SITE_MENU = config.site.menu;
 
 // 备案信息
-export const SITE_ICP = config.site.icp || "";
-export const SITE_ICP_LINK = config.site.icp_link || "https://beian.miit.gov.cn/";
+export const SITE_ICP = config.site.icp ?? "";
+export const SITE_ICP_LINK = config.site.icp_link ?? "https://beian.miit.gov.cn/";
+
+// 公安备案号
+export const SITE_POLICE = config.site.police ?? "";
+export const SITE_POLICE_LINK = config.site.police_link ?? "https://beian.mps.gov.cn/";
 
 // 多语言文本配置
 export const TRANSLATIONS = translationsConfig;
