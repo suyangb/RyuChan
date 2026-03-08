@@ -63,10 +63,6 @@ export const SITE_MENU = config.site.menu;
 export const SITE_ICP = config.site.icp ?? "";
 export const SITE_ICP_LINK = config.site.icp_link ?? "https://beian.miit.gov.cn/";
 
-// 公安备案号
-export const SITE_ICP = config.site.icp ?? "";
-export const SITE_ICP_LINK = config.site.icp_link ?? "https://beian.mps.gov.cn/";
-
 // 多语言文本配置
 export const TRANSLATIONS = translationsConfig;
 
