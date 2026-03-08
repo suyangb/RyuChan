@@ -14,6 +14,7 @@ const config = yaml.load(fs.readFileSync(configPath, "utf8")) as Config;
 const translationsConfig = yaml.load(fs.readFileSync(translationsPath, "utf8")) as Record<string, any>;
 
 // 网站基本信息
+export const SITE_TAB = config.site.tab;
 export const SITE_TITLE = config.site.title;
 export const SITE_DESCRIPTION = config.site.description;
 export const SITE_LANGUAGE = config.site.language;
